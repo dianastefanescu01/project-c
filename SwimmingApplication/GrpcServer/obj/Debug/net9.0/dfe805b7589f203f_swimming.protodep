@@ -1,0 +1,2 @@
+obj\Debug\net9.0\proto/Swimming.cs \
+obj\Debug\net9.0\proto/SwimmingGrpc.cs: proto/swimming.proto

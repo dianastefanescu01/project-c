@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <!-- Proto file -->
+    <ItemGroup>
+        <Protobuf Include="proto\swimming.proto" GrpcServices="Server" />
+    </ItemGroup>
+    <!-- Project References -->
+    <ItemGroup>
+        <ProjectReference Include="..\server\server.csproj" />
+        <ProjectReference Include="..\model\model.csproj" />
+        <ProjectReference Include="..\services\services.csproj" />
+        <ProjectReference Include="..\persistence\persistence.csproj" />
+    </ItemGroup>
+
+    <!-- gRPC dependencies -->
+    <ItemGroup>
+        <PackageReference Include="Grpc.AspNetCore" Version="2.54.0" />
+        <PackageReference Include="Grpc.Tools" Version="2.54.0" PrivateAssets="All" />
+        <PackageReference Include="Google.Protobuf" Version="3.24.4" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="app.config" />
+    </ItemGroup>
+
+</Project>

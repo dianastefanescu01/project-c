@@ -1,0 +1,16 @@
+D:\sem4\project PA c\SwimmingApplication\services\bin\Debug\net9.0\services.deps.json
+D:\sem4\project PA c\SwimmingApplication\services\bin\Debug\net9.0\services.dll
+D:\sem4\project PA c\SwimmingApplication\services\bin\Debug\net9.0\services.pdb
+D:\sem4\project PA c\SwimmingApplication\services\bin\Debug\net9.0\model.dll
+D:\sem4\project PA c\SwimmingApplication\services\bin\Debug\net9.0\model.pdb
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.csproj.AssemblyReference.cache
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.AssemblyInfoInputs.cache
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.AssemblyInfo.cs
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.csproj.CoreCompileInputs.cache
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.sourcelink.json
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.csproj.Up2Date
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.dll
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\refint\services.dll
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\services.pdb
+D:\sem4\project PA c\SwimmingApplication\services\obj\Debug\net9.0\ref\services.dll
